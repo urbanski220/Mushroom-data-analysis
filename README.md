@@ -1,1 +1,1 @@
-# Mushroom-data-analysis
+# Project for my data analysis and representation course
